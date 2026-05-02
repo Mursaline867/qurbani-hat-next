@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Deshi Shahi Cow",
+    "type": "Cow",
+    "breed": "Local Deshi",
+    "price": 120000,
+    "weight": 280,
+    "age": 3,
+    "location": "Bogura",
+    "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural food and checked by local farmers.",
+    "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?q=80&w=1200&auto=format&fit=crop",
+    "category": "Large Animal"
+  },
+  {
+    "id": 2,
+    "name": "Premium Red Chittagong",
+    "type": "Cow",
+    "breed": "Red Chittagong",
+    "price": 165000,
+    "weight": 340,
+    "age": 4,
+    "location": "Chattogram",
+    "description": "Strong Red Chittagong cow with shiny coat, perfect size, and calm nature for easy handling.",
+    "image": "https://images.unsplash.com/photo-1527153857715-3908f2bae5e8?q=80&w=1200&auto=format&fit=crop",
+    "category": "Large Animal"
+  },
+  {
+    "id": 3,
+    "name": "Royal Sahiwal Bull",
+    "type": "Cow",
+    "breed": "Sahiwal",
+    "price": 210000,
+    "weight": 430,
+    "age": 4,
+    "location": "Jashore",
+    "description": "Large Sahiwal bull raised with balanced feed. Great choice for a premium Qurbani booking.",
+    "image": "https://images.pexels.com/photos/35301234/pexels-photo-35301234.jpeg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 4,
+    "name": "Black Bengal Prince",
+    "type": "Goat",
+    "breed": "Black Bengal",
+    "price": 28000,
+    "weight": 32,
+    "age": 2,
+    "location": "Kushtia",
+    "description": "Active Black Bengal goat with excellent health and clean farm care. Budget-friendly and popular.",
+    "image": "https://images.pexels.com/photos/31567964/pexels-photo-31567964.jpeg",
+    "category": "Small Animal"
+  },
+  {
+    "id": 5,
+    "name": "Jamunapari King",
+    "type": "Goat",
+    "breed": "Jamunapari",
+    "price": 52000,
+    "weight": 48,
+    "age": 2,
+    "location": "Rajshahi",
+    "description": "Tall Jamunapari goat with beautiful body shape and premium farm care for Eid-ul-Adha.",
+    "image": "https://images.pexels.com/photos/35733165/pexels-photo-35733165.jpeg?q=80&w=600&auto=format&fit=crop",
+    "category": "Small Animal"
+  },
+  {
+    "id": 6,
+    "name": "Pabna Healthy Cow",
+    "type": "Cow",
+    "breed": "Pabna Local",
+    "price": 98000,
+    "weight": 245,
+    "age": 3,
+    "location": "Pabna",
+    "description": "Medium-sized local cow, naturally raised and suitable for families looking for reliable booking.",
+    "image": "https://images.unsplash.com/photo-1493962853295-0fd70327578a?q=80&w=1200&auto=format&fit=crop",
+    "category": "Large Animal"
+  }
+]
