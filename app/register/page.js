@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useAuth } from "@/context/AuthContext";
-import toast from "react-hot-toast";
+import toast from '@/lib/toast';
 
 export default function RegisterPage() {
   const router = useRouter();

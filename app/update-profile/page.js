@@ -2,7 +2,7 @@
 import { useRouter } from 'next/navigation';
 import PrivateRoute from '@/components/PrivateRoute';
 import { useAuth } from '@/context/AuthContext';
-import toast from 'react-hot-toast';
+import toast from '@/lib/toast';
 
 export default function UpdateProfile() {
   const { user, updateUserInfo } = useAuth();
