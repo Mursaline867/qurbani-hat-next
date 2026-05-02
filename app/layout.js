@@ -2,7 +2,7 @@ import './globals.css';
 import { AuthProvider } from "@/context/AuthContext";
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import { Toaster } from 'react-hot-toast';
+import { Toaster } from '@/lib/toast';
 
 export const metadata = {
   title: 'QurbaniHat | Livestock Booking Platform',
